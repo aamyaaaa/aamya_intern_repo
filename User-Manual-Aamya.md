@@ -1,16 +1,42 @@
-# User Manual
+# User Manual for Aamya
 
-## What I Need from Teammates
-I work best when I have flexibility in how I approach tasks and access to all the resources I need before I start. I also appreciate having enough time to fully understand the problem before diving into execution—this helps me produce better, more thoughtful work.
+## My Role
+I am working on UX design and related tasks that make Focus Bear intuitive, accessible, and enjoyable to use.
 
-## How I Prefer to Communicate
-I’m more than happy with video calls because they make it easier to understand and clarify things in real time. If it’s more about reporting or status updates, email check-ins work well for me so there’s a written record to refer back to.
+## I am working on..
+Designing and refining user experiences, collaborating with developers, and ensuring design decisions align with user needs and accessibility standards.
 
-## What Helps Me Stay Focused and Productive
-Lately, Focus Bear has been helping me stay in the zone, but I need the right environment to get into deep focus. That could be a quiet day at home or a buzzing café—it’s less about silence and more about finding the right energy to keep me going.
+## The days and times I work are:
+I generally work on:
+- Saturdays (9am- 1pm)
+- Sundays(9am- 1pm)
+- Monday (9am- 11am)
 
-## How I Like to Give and Receive Feedback
-Any form of feedback works for me, but I slightly prefer verbal feedback because it allows me to ask questions and understand the reasoning better in the moment.
+## How I Work Best
+I do my best work when I have flexibility in how I approach tasks, access to all the resources I need before starting, and enough time to fully understand the problem before execution.  
+I struggle when I’m rushed into starting without context or when priorities change mid-task without clear communication.
 
-## Quirks About My Work Style
-I brainstorm out loud and like having a bit of time beforehand to understand the topic we’ll be brainstorming about. I also enjoy working in environments with people around—like a café—because it gives me energy and keeps me engaged.
+## Communication Style
+I prefer messages to be clear and direct, with enough detail so I don’t have to guess the context.  
+The best way to reach me is via video calls for discussions and email check-ins for reporting or detailed updates.  
+If you need something urgent, call or ping me directly on our main communication channel so I see it immediately.
+
+## Collaboration & Teamwork
+I work best in a team when everyone shares updates openly and resources are available upfront.  
+My biggest pet peeve in teamwork is unclear expectations or missing information that delays progress.  
+If I seem quiet in a meeting, it usually means I’m taking time to process the discussion before contributing.
+
+## Focus & Productivity
+I stay focused by getting into the “zone,” whether that’s at home or in a lively café. Tools like Focus Bear help me stay on track.  
+Things that distract me include social media, frequent interruptions or unclear priorities.  
+The best way to support my productivity is to let me work through deep focus sessions without breaking my flow.
+
+## Feedback & Growth
+I like feedback to be direct, ideally verbal, so I can ask follow-up questions and understand the reasoning right away.  
+When I make a mistake, the best way to let me know is to explain what happened and what needs to change, without rushing the conversation.  
+I appreciate it when teammates give context, share ideas openly, and collaborate on solutions rather than just pointing out problems.
+
+## Fun Facts & Quirks
+One thing people often misunderstand about me is that my preference for working in cafés isn’t about distraction—it actually helps me focus.  
+A fun fact about me is that I often brainstorm out loud and love bouncing ideas around with others.  
+My work superpower is turning big, messy ideas into clear, user-friendly designs.
