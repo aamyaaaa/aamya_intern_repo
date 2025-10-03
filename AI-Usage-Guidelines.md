@@ -13,3 +13,23 @@ I’ll never enter confidential company data, private user information, or anyth
 
 ### One Best Practice I’ll Follow
 Whenever I use AI, I’ll double-check the output for accuracy and relevance before sharing it. That means fact-checking, making sure it aligns with the project’s goals, and ensuring it sounds like something I would write, not just what the AI suggested.
+
+### Example of Using AI and Critical Review
+
+I used ChatGPT to help refine one of my sentences in this reflection. My original wording was:
+
+“I would use AI when I need help brainstorming ideas, speeding up repetitive tasks, or drafting something quickly that I can then refine. But for tasks that need deep context, creativity, or sensitive decision-making, I’d rely on my own skills and judgment. AI is a great assistant, but it’s not a replacement for human thinking.”
+
+The AI suggested simplifying the flow to make it easier to read:
+
+“I use AI to brainstorm, speed up repetitive work, or draft something to polish later. For tasks that need deep context, creativity, or sensitive judgment, I rely on my own skills. AI is an assistant—not a replacement for human thinking.”
+
+#### My Review:
+
+Usefulness: The AI helped streamline the sentence, making it shorter and smoother.
+
+Accuracy: The meaning stayed the same, which was important.
+
+Edits I Made: I combined the clarity of the AI version with some of my original phrasing, so it still sounded like my voice.
+
+Final Outcome: A polished, more concise reflection that balanced readability with my personal style.
