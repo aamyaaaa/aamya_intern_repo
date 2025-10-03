@@ -26,10 +26,10 @@ The AI suggested simplifying the flow to make it easier to read:
 
 #### My Review:
 
-Usefulness: The AI helped streamline the sentence, making it shorter and smoother.
+- It was more useful.
 
-Accuracy: The meaning stayed the same, which was important.
+- It was pretty much accurate.
 
-Edits I Made: I combined the clarity of the AI version with some of my original phrasing, so it still sounded like my voice.
+- When I combined the clarity of the AI version with some of my original phrasing, so it still sounded like my voice.
 
-Final Outcome: A polished, more concise reflection that balanced readability with my personal style.
+- The final outcome came out to be a polished, more concise reflection that balanced readability with my personal style.
