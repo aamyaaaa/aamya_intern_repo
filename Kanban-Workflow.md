@@ -10,3 +10,10 @@ Using Kanban, I can break down big tasks into smaller, manageable pieces and mov
 
 ### One Way to Improve Task Tracking in My Role
 I could add short, clear descriptions and deadlines to each task card so it’s obvious what needs to be done and by when. This would make it easier for both me and my teammates to track progress and prioritise work without constantly asking for updates.
+
+### Practical Task Update
+When I checked the Projects tab in the FocusBear GitHub repository, the Kanban board was not yet set up, so I couldn’t move a task through the workflow.  
+I had included a screenshot for the same..
+
+If the board were available, I would have moved a task from Backlog → In Progress → Done, updating its status as I worked on it.  
+This would help track progress transparently, ensure visibility for the whole team, and prevent tasks from getting stuck unnoticed.
